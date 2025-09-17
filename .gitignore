@@ -18,3 +18,4 @@
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+/bin/lib/mongo_crypt_v1.so
